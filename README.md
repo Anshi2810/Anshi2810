@@ -1,5 +1,43 @@
-# 💫 About Me:
-I am currently looking for:  <br>- Internship opportunities in Mobile App Development (React Native)  <br>- Web Development projects using React.js and modern frontend frameworks  <br>- Full-stack project collaborations or hackathons<br>I am currently learning:  <br>- Advanced React Native concepts for scalable Android apps  <br>- React.js state management (Redux & Context API)  <br>- Node.js & Express for backend integration  <br>- Tailwind CSS and Material UI for responsive web design<br>Ask me about:  <br>- Mobile App Development with React Native  <br>- Web Frontend Development (React.js, HTML, CSS)  <br>- Building REST APIs and integrating them with apps  <br>Fun fact:  <br>- I once built a weather app in a single day for a hackathon!  <br>- I love converting ideas into apps that solve real problems.  <br>- Coffee + code = my perfect combo ☕💻<br><br>
+# 💫 About Me
+
+Hi there! I'm **Anshi**, a developer passionate about building **Android apps using React Native** and **modern web frontends with React.js**. I love creating responsive, user-friendly applications that solve real problems and improve everyday experiences.
+
+---
+
+## 🔍 I am currently looking for
+- Internship opportunities in **Mobile App Development (React Native)**  
+- Web Development projects using **React.js** and modern frontend frameworks  
+- **Full-stack project collaborations** or hackathons  
+
+---
+
+## 📚 I am currently learning
+- Advanced **React Native concepts** for scalable Android apps  
+- **React.js state management** (Redux & Context API)  
+- **Node.js & Express** for backend integration  
+- **Tailwind CSS** and **Material UI** for responsive web design  
+
+---
+
+## ❓ Ask me about
+- Mobile App Development with **React Native**  
+- Web Frontend Development (**React.js, HTML, CSS**)  
+- Building **REST APIs** and integrating them with apps  
+- **UI/UX Design** using Figma  
+
+---
+
+## 🎉 Fun Fact
+- Built a **weather app in a single day** for a hackathon!  
+- Love converting **ideas into apps** that solve real problems  
+- Coffee + code = my perfect combo ☕💻  
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/anshi)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Anshi)  
+[![Email](https://img.shields.io/badge/Email-Message-red?style=flat-square&logo=gmail)](mailto:anshigill4@gmail.com)
 
 
 ## 🌐 Socials:
